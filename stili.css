@@ -1,0 +1,38 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+h2 {
+    font-family: fantasy;
+    background: rgb(211,234,241);
+}
+ul {
+    list-style-image: url(https://habrastorage.org/getpro/habr/post_images/7e4/c29/d87/7e4c29d878b94be4d5999f5146a36568.gif);
+}
+body {
+    background-image: url(fon.jpg);
+}
+p {
+    color:white;
+    font-size: 22px;
+}
+li {
+    color:white;
+    font-size: 22px;
+}
+.levo {
+    float: left;
+    margin: 0 40px 20px 0;
+}
+.one {
+    display: block;
+    clear: both;
+}
+footer {
+    background: rgb(211,234,241);
+    text-align: center;
+}
+footer p {
+    color: #000;
+}
